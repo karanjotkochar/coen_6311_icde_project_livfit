@@ -6,4 +6,4 @@ In our multi user web application, the major aim is regarding fitness tracking. 
 
 It will enable customers with option of exercises as per requirement and allow them to have one to one interaction with the trainers. Trainers to help people and guide them with their exercise related queries.
 
-Tools used: Python, HTML/CSS, Flask, MongoDB
+Tools used: Python, HTML/CSS/JS, Flask, MongoDB
